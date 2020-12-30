@@ -111,6 +111,12 @@
     font-weight: lighter;
 }
 
+.placard a, .wideplacard a {
+  color: #444;
+  font-family: 'Cambria';
+  font-weight: lighter;
+}
+
 .placard a:visited, .wideplacard a:visited {
   color: #111;
   font-family: 'Cambria';
